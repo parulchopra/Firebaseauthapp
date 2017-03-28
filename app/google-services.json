@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "986280216039",
+    "firebase_url": "https://fir-authapp-fba4a.firebaseio.com",
+    "project_id": "fir-authapp-fba4a",
+    "storage_bucket": "fir-authapp-fba4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986280216039:android:d35a3432c0938ecb",
+        "android_client_info": {
+          "package_name": "com.example.parulchopra.firebaseauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986280216039-n26g4uqlkb3bcn3bdmf34davlb766ufg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parulchopra.firebaseauthapp",
+            "certificate_hash": "ff94db94168a8cb361214032b57f273d47bd8f14"
+          }
+        },
+        {
+          "client_id": "986280216039-a6pcrfh64b8rr0b6te2503f26cpqqn66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB23h1OlyrqVTKdRrl0q6qZhMNQsFggAok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986280216039-a6pcrfh64b8rr0b6te2503f26cpqqn66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
